@@ -2,15 +2,15 @@ export default function Home() {
   return (
     <main>
       <div className="container flex flex-col justify-center min-h-screen">
-        <div className="flex mx-auto max-w-lg rounded-3xl bg-white">
-          <section className="basis-1/2 text-center p-10 bg-gradient-to-b from-light-slate-blue to-light-royal-blue rounded-3xl">
+        <div className="flex mx-auto max-w-lg rounded-3xl bg-white ite">
+          <section className="basis-1/2 text-center p-6 bg-gradient-to-b from-light-slate-blue to-light-royal-blue rounded-3xl">
             <h4>Your Result</h4>
-            <div>
-              <p>76</p>
+            <div className="flex flex-col justify-center rounded-full w-32 h-32 mx-auto bg-gradient-to-b from-violet-blue to-transparent text-white  shrink-0 grow-0 my-5">
+              <p className="text-4xl font-bold">76</p>
               <p>of 100</p>
             </div>
             <h5>Great</h5>
-            <p>
+            <p className="text-sm">
               You scored higher than 65% of the people who have taken these
               tests.
             </p>
