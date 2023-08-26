@@ -2,17 +2,37 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
+@layer components {
+  .score {
+    @apply flex justify-between items-center p-2 rounded-md text-xs;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+  .reaction {
+    @apply bg-light-red bg-opacity-5;
+  }
+
+  .memory {
+    @apply bg-orange-yellow bg-opacity-5;
+  }
+
+  .verbal {
+    @apply bg-green-teal bg-opacity-5;
+  }
+
+  .visual {
+    @apply bg-cobalt-blue bg-opacity-5;
+  }
+
+  .score-total {
+    @apply font-bold text-dark-gray-blue;
+  }
+
+  .score-per {
+    @apply text-dark-gray-blue text-opacity-50;
+  }
+
+  .score-icon {
+    @apply mr-2 text-xs;
   }
 }
 
