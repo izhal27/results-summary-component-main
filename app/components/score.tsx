@@ -13,9 +13,9 @@ const typeOfScore = [
 
 function Score({ scores }: Props) {
   return (
-    <ul className="text-sm space-y-3 mt-5">
+    <ul className="sm:text-xs space-y-5 sm:space-y-3 mt-5">
       {typeOfScore.map((ts, i) => (
-        <li className={"score " + ts.category}>
+        <li className={"score x-2 px-5 py-5 sm:px-3 sm:py-2 " + ts.category}>
           <div className="flex items-center">
             <span className="score-icon">
               <img src={scores[i].icon}></img>

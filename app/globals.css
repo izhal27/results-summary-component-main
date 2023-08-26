@@ -4,7 +4,7 @@
 
 @layer components {
   .score {
-    @apply flex justify-between items-center p-2 rounded-md text-xs;
+    @apply flex justify-between items-center rounded-md;
   }
 
   .reaction {
