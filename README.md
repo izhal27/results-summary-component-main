@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-P1ucHmtSsl](https://www.frontendmentor.io/solutions/results-summary-component-P1ucHmtSsl)
 - Live Site URL: [https://results-summary-component-main-bt1pc4pz9-izhal.vercel.app/](https://results-summary-component-main-bt1pc4pz9-izhal.vercel.app/)
 
 ## My process
