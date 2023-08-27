@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://results-summary-component-main-bt1pc4pz9-izhal.vercel.app/](https://results-summary-component-main-bt1pc4pz9-izhal.vercel.app/)
 
 ## My process
 
@@ -43,6 +43,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.izhal.web.id)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/izhal27)
-- Twitter - [@yourusername](https://www.twitter.com/Gooner_Izhal)
+- Website - [izhal.web.id](https://www.izhal.web.id)
+- Frontend Mentor - [@izhal27](https://www.frontendmentor.io/profile/izhal27)
+- Twitter - [@Gooner_IzHaL](https://www.twitter.com/Gooner_Izhal)
