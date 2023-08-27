@@ -34,6 +34,13 @@
   .score-icon {
     @apply mr-2 text-xs;
   }
+
+  .icon-img {
+    object-fit: contain;
+    width: 100% !important;
+    position: relative !important;
+    height: unset !important;
+  }
 }
 
 body {
